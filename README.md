@@ -40,6 +40,8 @@ We would like a web application that allows users to list spaces they have avail
 * [Waffle] (https://waffle.io/samjones1001/makersbnb)
 
 ## <a name="Install">Installation</a>
+### Original repository
+[https://github.com/samjones1001/makersbnb] (https://github.com/samjones1001/makersbnb)
 ### To clone the repo
 ```shell
 $ git clone https://github.com/adrianeyre/makersbnb
