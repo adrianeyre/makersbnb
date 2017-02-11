@@ -25,7 +25,7 @@
       <div class="row">
         <div class="col-md-6 col-md-offset-3">
           <label for="price_per_night">Price Per Night:</label>
-          <input type="number" step="0.01" class="form-control" name="price_per_night" value="£<%= @space_price_per_night %>">
+          <input type="number" step="0.01" class="form-control" name="price_per_night" value="<%= format_price(@space_price_per_night) %>">
         </div>
       </div>
     </div>
@@ -34,7 +34,7 @@
       <div class="row">
         <div class="col-md-6 col-md-offset-3">
           <label for="available_from">Available From:</label>
-          <input type="date" class="form-control" name="available_from" value="<%= @space_available_from %>">
+          <input type="date" class="form-control" name="available_from" value="<%= format_date_american(DateTime.parse(@space_available_from)) %>">
         </div>
       </div>
     </div>
@@ -43,7 +43,7 @@
       <div class="row">
         <div class="col-md-6 col-md-offset-3">
           <label for="available_to">Available To:</label>
-          <input type="date" class="form-control" name="available_to" value="<%= @space_available_to %>">
+          <input type="date" class="form-control" name="available_to" value="<%= format_date_american(DateTime.parse(@space_available_to)) %>">
         </div>
       </div>
     </div>

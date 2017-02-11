@@ -16,7 +16,7 @@
                 <input type="hidden", name="spaceid" value="<%= user_space.id %>">
                 <input type="hidden", name="name" value="<%= user_space.name %>">
                 <input type="hidden", name="description" value="<%= user_space.description %>">
-                <input type="hidden", name="price_per_night" value="<%= format_price(user_space.price_per_night) %>">
+                <input type="hidden", name="price_per_night" value="<%= user_space.price_per_night %>">
                 <input type="hidden", name="available_from" value="<%= user_space.start_date %>">
                 <input type="hidden", name="available_to" value="<%= user_space.end_date %>">
                 <input type="submit" name="submit" class="btn btn-primary btn-primary-spacing" value="Update my Space" style="margin-left:13%">
