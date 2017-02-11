@@ -111,4 +111,4 @@ I want a posting to remain available until I confirm a hire request
 
 
 ## <a name="Heroku">Live on Heroku</a>
-[https://makersbestbnb.herokuapp.com/] (https://makersbestbnb.herokuapp.com/)
+[Makers BnB] (https://adrianeyre-makersbnb.herokuapp.com/)
