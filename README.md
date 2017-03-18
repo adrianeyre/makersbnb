@@ -1,21 +1,21 @@
 # Makers BnB
-### [Makers Academy] (http://www.makersacademy.com) - Week 6 Group Project
+### [Makers Academy](http://www.makersacademy.com) - Week 6 Group Project
 
 ## Team Members
-* [Adrian Eyre] (https://github.com/adrianeyre)
-* [Sam Jones] (https://github.com/samjones1001)
-* [Basile Koko] (https://github.com/BasileKoko)
-* [Justin Butwell] (https://github.com/Justinio14)
-* [Paul Goodman] (https://github.com/thegooders)
+* [Adrian Eyre](https://github.com/adrianeyre)
+* [Sam Jones](https://github.com/samjones1001)
+* [Basile Koko](https://github.com/BasileKoko)
+* [Justin Butwell](https://github.com/Justinio14)
+* [Paul Goodman](https://github.com/thegooders)
 
 ## Index
-* [Task] (#Task)
-* [Technologies] (#Technologies)
-* [Installation] (#Install)
-* [User Stories] (#Stories)
-* [Database Schema] (#Database)
-* [Screen Shots] (#Shots)
-* [Live on Heroku] (#Heroku)
+* [Task](#Task)
+* [Technologies](#Technologies)
+* [Installation](#Install)
+* [User Stories](#Stories)
+* [Database Schema](#Database)
+* [Screen Shots](#Shots)
+* [Live on Heroku](#Heroku)
 
 ## <a name="Task">Task</a>
 We would like a web application that allows users to list spaces they have available, and to hire spaces for the night.
@@ -37,11 +37,11 @@ We would like a web application that allows users to list spaces they have avail
 * Javascript
 * Jquery
 * Datamapper
-* [Waffle] (https://waffle.io/samjones1001/makersbnb)
+* [Waffle](https://waffle.io/samjones1001/makersbnb)
 
 ## <a name="Install">Installation</a>
 ### Original repository
-[https://github.com/samjones1001/makersbnb] (https://github.com/samjones1001/makersbnb)
+[https://github.com/samjones1001/makersbnb](https://github.com/samjones1001/makersbnb)
 ### To clone the repo
 ```shell
 $ git clone https://github.com/adrianeyre/makersbnb
@@ -113,4 +113,5 @@ I want a posting to remain available until I confirm a hire request
 
 
 ## <a name="Heroku">Live on Heroku</a>
-[Makers BnB] (https://adrianeyre-makersbnb.herokuapp.com/)
+
+[![heroku-48](https://raw.githubusercontent.com/adrianeyre/codewars/master/Ruby/Authored/heroku.png)](https://adrianeyre-makersbnb.herokuapp.com/) [Use on Heroku](https://adrianeyre-makersbnb.herokuapp.com/)
